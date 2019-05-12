@@ -9,3 +9,4 @@ Everything can be found in corresponding "hwX" folder
 1) Numpy + Pandas + Matplotlib + EDA
 2) Linear Regression with L1 and L2 regularization
 3) NLTK + Logistic Regression
+4) Gradient Boosting: LightGBM + CatBoost
